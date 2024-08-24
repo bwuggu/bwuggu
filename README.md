@@ -1,4 +1,5 @@
 ## Hi, I'm Skie!
-I'm a criminal justice student teaching herself the ways of coding. I am currently learning JavaScript and React. Graphic design is my passion 🤠
+
+I'm learning programming to be cool like my husband, @synqat. Currently tackling JavaScript and TypeScript.
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=bwuggu&repo=github-visitors-badge&countColor=%23f588b5)
