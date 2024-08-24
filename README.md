@@ -2,4 +2,4 @@
 
 I'm learning programming to be cool like my husband, Synqat. Currently tackling JavaScript and TypeScript.
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=bwuggu&repo=github-visitors-badge&countColor=%23f588b5)
+![](https://api.visitorbadge.io/api/VisitorHit?user=bwuggu&repo=github-visitors-badge&countColor=%f1e1ec)
